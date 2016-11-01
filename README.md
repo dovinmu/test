@@ -11,4 +11,6 @@ This is a Markdown document. This is paragraph text.
 * a
 * list
 
+To clone this repository run the command `git clone https://github.com/dovinmu/test.git`, or fork the repository using the GitHub web interface.
+
 See more Markdown syntax [here](https://daringfireball.net/projects/markdown/syntax).
